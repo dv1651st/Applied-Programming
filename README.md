@@ -6,7 +6,7 @@ a given subject matter. The subject in question can be found in the markdown fil
 For this first project, I will be demonstrating that I have set up a public GitHub respository and have included a simple "hello world" file in the Python programming language. 
 Here you can find a brief first overview video. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bA49a2jqpI4)
 
 # Development Environment
 
