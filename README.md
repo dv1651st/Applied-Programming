@@ -2,7 +2,7 @@
 
 For this second project, I will be demonstrated a Java project that opens a window and allows the user to change the color of the window with any press of the key.
 
-[Software Demo Video](https://youtu.be/bA49a2jqpI4)
+[Software Demo Video](https://youtu.be/loi4L1jzeTo)
 
 # Development Environment
 
@@ -11,8 +11,6 @@ For this second project, I will be demonstrated a Java project that opens a wind
 * Java ll
 * GitHub
 
-{# Useful Websites}
-
-{Make a list of websites that you found helpful in this project}
-{* [Web Site Name](http://url.link.goes.here)}
-{* [Web Site Name](http://url.link.goes.here)}
+# Some websites that were helpful with the project:
+* [Window guide](https://www.glfw.org/docs/latest/window_guide.html)
+* [Keyboard guide](https://www.glfw.org/docs/latest/input_guide.html)
