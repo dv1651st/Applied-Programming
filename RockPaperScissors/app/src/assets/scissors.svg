@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="430.6944"
+   id="svg18453"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/phillipsjd/Documents/projects/clipart-project/art"
+   sodipodi:docname="scissors_01.svg"
+   sodipodi:version="0.32"
+   width="385.7923"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Scissors</dc:title>
+        <dc:description>Generic scissor outline</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>office</rdf:li>
+            <rdf:li />
+            <rdf:li>work</rdf:li>
+            <rdf:li>arrow</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org">
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jon Phillips</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs48974">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 382.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="990 : 382.5 : 1"
+       inkscape:persp3d-origin="495 : 255 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:cx="475.26707"
+     inkscape:cy="250.37448"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="739"
+     inkscape:window-width="1012"
+     inkscape:window-x="22"
+     inkscape:window-y="27"
+     inkscape:zoom="0.61399264"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:current-layer="svg18453" />
+  <path
+     d="M 223.65544,189.86508 C 263.77094,134.55986 272.43792,94.139105 286.02456,98.007405 C 296.64464,101.03103 291.54066,110.1203 319.60686,116.53314 C 346.55514,122.69058 374.08792,100.56647 379.80797,73.873685 C 387.427,47.710935 375.07765,14.826765 347.44974,6.7088346 C 320.10896,-3.1861654 287.52025,12.897455 277.79222,40.128185 C 263.6965,71.258435 256.46821,112.37256 210.91203,147.66101 L 175.94504,174.7466 L 54.936527,345.58649 C 41.406147,367.67421 33.282387,397.05845 50.824847,425.03158 L 223.65544,189.86508 z M 353.47526,86.749175 C 330.1697,109.99888 288.94166,95.819785 289.01216,64.784115 C 287.36181,36.230585 322.06695,10.225665 347.86424,26.524355 C 369.58518,37.952375 369.42945,70.833105 353.47526,86.749175 z"
+     id="path48999"
+     sodipodi:nodetypes="cccccczcccccccc"
+     style="stroke:#000000;stroke-width:7.54062271;marker-start:none;stroke-miterlimit:4;stroke-opacity:1" />
+  <path
+     d="M 161.843,191.37295 C 121.85028,135.9784 113.27382,95.538485 99.678807,99.376495 C 89.052117,102.37649 94.135747,111.47684 66.054737,117.82735 C 39.093117,123.92476 11.609697,101.7393 5.9489075,75.033745 C -1.6113125,48.854375 10.811197,15.997535 38.456997,7.9413246 C 65.819937,-1.8927754 98.372707,14.263355 108.03967,41.515825 C 122.06617,72.677175 129.20266,113.80755 174.68042,149.1972 L 209.58713,176.361 L 330.21423,347.47004 C 343.69544,369.58792 351.754,398.99014 334.14924,426.92408 L 161.843,191.37295 z M 32.253467,87.967925 C 55.507077,111.26949 96.766587,97.182315 96.764987,66.146645 C 98.479397,37.596855 63.831987,11.514655 37.998627,27.755695 C 16.252327,39.135335 16.334647,72.016345 32.253467,87.967925 z"
+     id="path49000"
+     sodipodi:nodetypes="cccccczcccccccc"
+     style="stroke:#000000;stroke-width:7.54062271;marker-start:none;stroke-miterlimit:4;stroke-opacity:1" />
+</svg>
