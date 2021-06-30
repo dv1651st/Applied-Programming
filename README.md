@@ -8,7 +8,7 @@ Here is a list of changes that occured since the first version:
 * Page for "find player" incorporated.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KrzE9aadNPs)
 
 # Network Communication
 
