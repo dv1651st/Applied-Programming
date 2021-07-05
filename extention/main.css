@@ -1,0 +1,6 @@
+html[remove_sidebar="true"] #related
+/* html[hide_comments="true"] */
+
+{
+	display: none;
+}

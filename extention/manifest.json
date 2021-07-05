@@ -1,0 +1,27 @@
+{
+    "description": "Demonstrates simple content removal from YT.",
+    "manifest_version": 2,
+    "name": "Module 5",
+    "version": "3.5.3",
+    "content_scripts": [
+      {
+        "js": ["/content_script.js"],
+        "matches": ["*://www.youtube.com/*"],
+        "run_at": "document_start"
+      },
+      {
+        "css": ["/main.css"],
+        "matches": ["*://www.youtube.com/*"],
+        "run_at": "document_start",
+        "all_frames": true
+      }
+    ],
+    "background": {
+      "scripts": ["/block.js"]
+    },
+    "permissions": [
+      "storage",
+      "webRequest",
+      "webRequestBlocking"
+    ]
+  }

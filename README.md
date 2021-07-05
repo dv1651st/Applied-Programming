@@ -1,18 +1,26 @@
 # Overview
 
-Hello, my name is David Strelyuk, and I am a software developer! Here you will find all of my personal projects. Each project is intended to demonstrate my proficiency within 
-a given subject matter. The subject in question can be found in the markdown file of each project folder.
+This is a Firefox extention that will block out the recommended videos on the right hand side of the windom. There is no UI, which was the stretch challenge. 
+The way it works is use WebRequestBlocking API to intercept the data before it appears on screen. We can add various attributes into the main html tag which will determine what content is visible or invisible. To test it, type "about:debugging" in the main search bar of Firefox, click on "load temporary add-on", and select the manifest.json file. Go on youtube and click on a video. 
 
-For this first project, I will be demonstrating that I have set up a public GitHub respository and have included a simple "hello world" program in the Python programming language. 
-
-Here you can find a brief first overview video. 
-
-[Software Demo Video](https://youtu.be/bA49a2jqpI4)
+[Software Demo Video](https://youtu.be/3yrLIL4EMsA)
 
 # Development Environment
 
-* Visual Studio Code
-* Python 3.9.0 64-bit
-* GitHub
+* Firefox
+* Visual Studio
+* JSON
+* Javascript
+* CSS
 
+# Useful Websites
 
+A website that I referenced often.
+* [Firefox Developer Resources](https://developer.mozilla.org/en-US/)
+
+# Future Work
+
+Future improvements
+* Add UI
+* Block elements from youtube app
+* Make it remove more than one thing
