@@ -10,12 +10,6 @@ Here is a list of changes that occured since the first version:
 
 [Software Demo Video](https://youtu.be/KrzE9aadNPs)
 
-# Network Communication
-
-So far it is only client-server. Peer to peer will be incorporated once arcitecture for obtaining the required data from each user is successfully implemented.
-
-Firebase uses websockets to communicate between client and server, which keeps it open versus the standard method of creating the connection, sending info, and then terminating it.
-
 # Development Environment
 
 * Kotlin 1.5.0 
