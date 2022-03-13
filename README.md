@@ -18,7 +18,6 @@ Here is a list of changes that occured since the first version:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Android Studio Developer](https://developer.android.com/)
 * [Kotlin Docs](https://kotlinlang.org/docs/home.html)
 * [Firebase](https://firebase.google.com/)
@@ -26,7 +25,6 @@ Here is a list of changes that occured since the first version:
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Acquire required information from user. Presently only email and password is acquired, but not username, age, and other info.
 * Display info from database back into the app in "Find player" page.
 * Have the game switch to player 2 once player 1 has selected an option and confirmed it.
